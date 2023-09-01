@@ -1,0 +1,15 @@
+name: MinasUi
+main: Nozell\minas\Loader
+version: 0.0.1
+api: 5.0.0
+author: Nozell
+website: https://youtube.com/@vNozell
+description: minas ui by nozell
+
+permissions:
+  minas.nozell:
+    default: true
+    description: minasui by Nozell
+  sound.nz:
+    default: op
+    description: solo yo
