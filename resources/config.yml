@@ -1,0 +1,5 @@
+Comandos:
+  mina: "warp" #coloca el comando de tu minas
+  minapvp: "warp" #coloca el comando de tu minas
+help:
+  mina: "ayuda" #una breve descripcion de las minas
