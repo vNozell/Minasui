@@ -1,13 +1,20 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vNozell/Minasui
 build-by-default: true
 branches:
-- main
+ - main
 projects:
-- MinasUi
+ - MinasUi
 categories:
   - tools
   - plugins
   - menu
   - mina
   -Minas
+tags:
+  - mina
+  - ui
+  - menu
+  - tools
+  - server
+  - pocketmine
 ...
