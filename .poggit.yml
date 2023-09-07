@@ -4,4 +4,10 @@ branches:
 - main
 projects:
 - MinasUi
+categories:
+  - tools
+  - plugins
+  - menu
+  - mina
+  -Minas
 ...
