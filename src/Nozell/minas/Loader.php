@@ -25,7 +25,7 @@ class Loader extends PluginBase{
 
     public static Loader $instance;
 
-    public const PREFIX = "§l§6Vipit§flife";
+    public const PREFIX = "";
 
     /**
      * @return void
